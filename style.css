@@ -1,0 +1,40 @@
+.box{
+    height: 30px;
+    width: 100%;
+    background-color: aquamarine;
+    color: red;
+    border: 2px solid red;
+    border-radius: 20px;
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.text1{
+    background-color: yellow;
+    color: green;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.text2{
+    color: red;
+}
+
+.text3{
+    color: green;
+}
+
+.text4{
+    background-color: yellow;
+    color: green;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.text5{
+    color: green;
+}
